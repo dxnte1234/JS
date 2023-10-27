@@ -1,7 +1,7 @@
 console.log("Hola Koders"); 
 
 let a = 5   
-let b = 7|
+let b = 7
 
 let result1 = (a + b);
 let result2 = (a - b);

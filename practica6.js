@@ -8,4 +8,5 @@ console.log(chechIfIsEven (12,5))
 
 const getRandomKoder =  kodersArray => kodersArray [Math.floor (Math.random()* kodersArray.length)];
 
-console.log(getRandomKoder (1,1));
+console.log(getRandomKoder (1,1
+    ));
